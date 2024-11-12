@@ -11,7 +11,7 @@
 - [Wisdom Generator](/wisdom-generator)
 - [Mymoyw](/myomyw) 一个小游戏，承载着某种过去，也可以[下载apk](https://github.com/Infinideastudio/Myomyw/releases/download/v0.8-beta/Myomyw.Beta.0.8.apk)
 - [选词填空生成器](/banked-cloze-generator)
-- [Bilibili 弹幕分析](https://dmdig.top)
+- [Bilibili 弹幕分析](http://dmdig.top)
 
 # 一些正经的东西
 
